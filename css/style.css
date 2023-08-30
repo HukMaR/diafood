@@ -582,7 +582,7 @@ body {
 
 @media screen and (max-width:321px) {
     .container {
-        max-width: 300px;
+        max-width: 280px;
     }
 
     .main__inner {
@@ -620,7 +620,7 @@ body {
     }
     
     .swiper {
-        width: 280px;
+        width: 250px;
         height: 235px;
     }
 
