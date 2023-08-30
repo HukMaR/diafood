@@ -385,7 +385,7 @@ body {
 /* dish_of_the_day */
 
 .dish-of-the-day__inner h1 {
-    font-size: 100px;
+    font-size: 70px;
     text-align: left;
     color: var(--new-green-color);
     margin-bottom: 10px;
@@ -410,9 +410,6 @@ body {
     -moz-border-radius: 35px;
     -ms-border-radius: 35px;
     -o-border-radius: 35px;
-    -webkit-box-shadow: 0px 4px 4px -3px rgba(0, 0, 0, 0.43);
-    -moz-box-shadow: 0px 4px 4px -3px rgba(0, 0, 0, 0.43);
-    box-shadow: 0px 4px 4px -3px rgba(0, 0, 0, 0.43);
 }
 
 .colorbl {
@@ -551,7 +548,7 @@ body {
     /* Страничка с слайдером рецепты */
 
     .dish-of-the-day__inner h1 {
-        font-size: 70px;
+        font-size: 45px;
     }
 
     .dish-of-the-day__inner-column .swiper-slide img {
@@ -590,7 +587,7 @@ body {
     /* Страничка с слайдером рецепты */
 
     .dish-of-the-day__inner h1 {
-        font-size: 60px;
+        font-size: 40px;
     }
 }
 
@@ -645,6 +642,6 @@ body {
     /* Страничка с слайдером рецепты */
 
     .dish-of-the-day__inner h1 {
-        font-size: 50px;
+        font-size: 30px;
     }
 }
