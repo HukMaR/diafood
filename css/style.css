@@ -448,7 +448,7 @@ body {
 
 @media screen and (max-width:426px) {
     .container {
-        max-width: 400px;
+        max-width: 380px;
     }
 
     .social__text {
@@ -526,7 +526,7 @@ body {
     }
 
     .swiper {
-        width: 380px;
+        width: 360px;
         height: 300px;
     }
 
@@ -553,11 +553,11 @@ body {
 
 @media screen and (max-width:376px) {
     .container {
-        max-width: 365px;
+        max-width: 345px;
     }
 
     .main__inner {
-        max-width: 365px;
+        max-width: 345px;
     }
 
     .about__site {
@@ -565,7 +565,7 @@ body {
     }
 
     .swiper {
-        width: 345px;
+        width: 320px;
         height: 265px;
     }
 
