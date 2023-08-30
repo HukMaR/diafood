@@ -582,7 +582,11 @@ body {
 
 @media screen and (max-width:321px) {
     .container {
-        max-width: 320px;
+        max-width: 300px;
+    }
+
+    .main__inner {
+        max-width: 300px;
     }
 
     .header-logo__img {
@@ -616,7 +620,7 @@ body {
     }
     
     .swiper {
-        width: 300px;
+        width: 280px;
         height: 235px;
     }
 
