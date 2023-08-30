@@ -87,14 +87,14 @@ body {
 }
 
 .header-logo__img {
-    width: 90px;
+    width: 62px;
     background-color: var(--main-color-white);
     border-radius: 100%;
     -webkit-border-radius: 100%;
     -moz-border-radius: 100%;
     -ms-border-radius: 100%;
     -o-border-radius: 100%;
-    padding: 20px;
+    padding: 13px;
     margin-right: 10px;
 }
 
@@ -129,7 +129,7 @@ body {
 }
 
 .header-social__img {
-    width: 79px;
+    width: 42px;
     margin-right: 10px;
 }
 
@@ -138,12 +138,12 @@ body {
 }
 
 .user {
-    width: 99px;
-    height: 99px;
+    width: 62px;
+    height: 62px;
 }
 
 .header__user-img {
-    width: 99px;
+    width: 62px;
     background-color: var(--main-color-white);
     border-radius: 100%;
     -webkit-border-radius: 100%;
