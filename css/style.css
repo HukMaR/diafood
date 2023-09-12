@@ -140,6 +140,7 @@ body {
 .user {
     width: 62px;
     height: 62px;
+    display: none;
 }
 
 .header__user-img {
