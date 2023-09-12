@@ -261,6 +261,7 @@ body {
 .swiper-slide h3 {
     text-align: center;
     margin-bottom: 10px;
+    padding: 5px;
 }
 
 .swiper-slide img {
